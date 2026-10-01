@@ -7,8 +7,7 @@ Entwicklungsarbeit: Linux-Umgebungen wiederverwenden, Aktivitäten von
 Softwareagenten nachvollziehen und Daten kontrolliert zwischen Systemen übernehmen.
 
 Mein Hintergrund verbindet Softwareentwicklung im Team, Research-Automatisierung,
-LLM-Orchestrierung und freiberufliche Sicherheitsprüfungen. Ich interessiere mich
-für Junior-Aufgaben in Softwareentwicklung, Linux-Infrastruktur und IT-Security.
+LLM-Orchestrierung und freiberufliche Sicherheitsprüfungen
 
 **Technische Schwerpunkte:** Python · Go · Shell/Bash · Linux · TypeScript/Preact
 
