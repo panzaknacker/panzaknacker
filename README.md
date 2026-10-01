@@ -15,12 +15,12 @@ LLM-Orchestrierung und freiberufliche Sicherheitsprüfungen
 
 | Projekt | Aufgabe und Umsetzung | Einstieg |
 | --- | --- | --- |
-| **[dynamicflow](https://github.com/panzaknacker/dynamicflow)** | Wiederverwendbare Linux-Research-Umgebungen. Go-Control-Plane mit Profilen und zweckgebundenen Signaturen; unfertige Remote-Aktionen bleiben gesperrt. | [Demo](https://github.com/panzaknacker/dynamicflow/blob/main/docs/DEMO.md) · [Prüfnachweise](https://github.com/panzaknacker/dynamicflow/blob/main/docs/VERIFICATION.md) |
-| **[plntir](https://github.com/panzaknacker/plntir)** | Agentenaktivität und Zusammenarbeit auf privaten Geräten. Go-/SQLite-Kern und TypeScript-Oberflächen; die Archivdemo prüft exakte Wiederherstellung und Manipulationsabwehr. | [Archivdemo](https://github.com/panzaknacker/plntir/blob/main/docs/DEMO.md) · [Komponentenstand](https://github.com/panzaknacker/plntir/blob/main/PROJECT_STATUS.md) |
-| **[umzug-toolkit](https://github.com/panzaknacker/umzug-toolkit)** | Kontrollierte Linux-Datenübernahme. Python-Werkzeuge trennen Quarantäne, Freigabe und Restore; signierter Transport und Rollback ergänzen den Ablauf. | [Demo](https://github.com/panzaknacker/umzug-toolkit/blob/main/docs/DEMO.md) · [Prüfstand](https://github.com/panzaknacker/umzug-toolkit/blob/main/docs/VALIDATION.md) |
+| **[dynamicflow](https://github.com/panzaknacker/dynamicflow)** | Wiederverwendbare Linux-Research-Umgebungen. Go-Control-Plane mit Profilen und zweckgebundenen Signaturen; unfertige Remote-Aktionen bleiben gesperrt. | [Ausprobieren](https://github.com/panzaknacker/dynamicflow#ausprobieren) · [Code](https://github.com/panzaknacker/dynamicflow#code) |
+| **[plntir](https://github.com/panzaknacker/plntir)** | Agentenaktivität und Zusammenarbeit auf privaten Geräten. Go-/SQLite-Kern und TypeScript-Oberflächen; die Archivdemo prüft exakte Wiederherstellung und Manipulationsabwehr. | [Ausprobieren](https://github.com/panzaknacker/plntir#ausprobieren) · [Code](https://github.com/panzaknacker/plntir#code) |
+| **[umzug-toolkit](https://github.com/panzaknacker/umzug-toolkit)** | Kontrollierte Linux-Datenübernahme. Python-Werkzeuge trennen Quarantäne, Freigabe und Restore; signierter Transport und Rollback ergänzen den Ablauf. | [Ausprobieren](https://github.com/panzaknacker/umzug-toolkit#ausprobieren) · [Code](https://github.com/panzaknacker/umzug-toolkit#code) |
 
 Die Repositories zeigen Entwicklungsstände mit ausführbaren lokalen Beispielen,
-Prüfprotokollen und dokumentierten Grenzen. Remote-Integration und
+Tests und benannten Grenzen. Remote-Integration und
 Hardwarequalifikation sind eigene Arbeitsschritte. Die offene SELinux-Grenze
 bei `umzug-toolkit` bleibt sichtbar. Die private Nutzung anderer Versionen
 belegt keine Produktionsreife dieser Quellstände.
