@@ -1,14 +1,6 @@
 # panzaknacker
 
-**Linux- und Security-Automatisierung · Wien**
-
-Ich entwickle Werkzeuge für wiederverwendbare Linux-Umgebungen,
-nachvollziehbare Softwareagenten und kontrollierte Datenübernahme.
-
-Mein Hintergrund verbindet Softwareentwicklung im Team, Research-Automatisierung,
-LLM-Orchestrierung und freiberufliche Sicherheitsprüfungen.
-
-**Technische Schwerpunkte:** Python · Go · Shell/Bash · Linux · TypeScript/Preact
+Vienna · Research
 
 ## Ausgewählte Projekte
 
