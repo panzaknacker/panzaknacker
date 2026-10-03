@@ -2,8 +2,6 @@
 
 Vienna · Research
 
-## Ausgewählte Projekte
-
 | Projekt | Aufgabe und Umsetzung | Einstieg |
 | --- | --- | --- |
 | **[dynamicflow](https://github.com/panzaknacker/dynamicflow)** | Linux-Research-Umgebungen: lokale Go-Control-Plane, VM-Profile und signierte Releases. | [Ausprobieren](https://github.com/panzaknacker/dynamicflow#ausprobieren) · [Code](https://github.com/panzaknacker/dynamicflow#code) |
@@ -13,8 +11,4 @@ Vienna · Research
 Die Projekte sind in Entwicklung. Lokale Demos, Tests und technische Grenzen
 sind in den jeweiligen Repositories dokumentiert.
 
-## Arbeitsweise
 
-- Änderungen vor ihrer Anwendung prüfen und einen Weg zur Wiederherstellung vorsehen.
-- Fehlerfälle und abgelehnte Eingaben ebenso prüfen wie den vorgesehenen Ablauf.
-- Ergebnisse mit Befehlen, Umgebung und verbleibenden Grenzen festhalten.
